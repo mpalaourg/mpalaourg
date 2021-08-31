@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Georgios Balaouras - aka mpalaourg 👋
+
+---
+
+<p align="center">
+<img align="center" alt="mpalaourg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpalaourg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />  <img align="center" alt="mpalaourg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpalaourg&layout=compact&langs_count=8&theme=radical&hide_border=true" /> </p>
 
 <!--
 **mpalaourg/mpalaourg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
