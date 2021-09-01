@@ -42,12 +42,12 @@
 <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  
 
 <p align="center">
-<img align="center" alt="mpalaourg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpalaourg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />  <img align="center" alt="mpalaourg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpalaourg&layout=compact&langs_count=8&theme=radical&hide_border=true" /> </p>
+<img align="center" alt="mpalaourg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpalaourg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />  <img align="center" alt="mpalaourg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpalaourg&layout=compact&langs_count=8&theme=radical&hide_border=true" /> <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mpalaourg&theme=radical&hide_border=true" /> </p>
 
-## TODO Fix the appearance
-[![trophy](https://github-profile-trophy.vercel.app/?username=mpalaourg)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub metrics](https://metrics.lecoq.io/mpalaourg)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mpalaourg)  
-
+<details>
+<summary><b>📊 Even more Stats and GitHub metrics</b> <i>(click to expand)</i></summary>
+<p align="center">
+<img align="center" alt="mpalaourg's metrics" src="https://github.com/mpalaourg/mpalaourg/blob/main/github-metrics.svg" /> </p>
+</details>
 
 [website]: https://mpalaourg.me/
