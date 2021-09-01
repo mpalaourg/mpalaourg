@@ -1,17 +1,19 @@
-### Hi there, I'm Georgios Balaouras - aka [mpalaourg][website] 👋 <img src="https://komarev.com/ghpvc/?username=mpalaourg&label=Visitors&color=blue&style=plastic" alt="mpalaourg" height="20"/>
+### Hi there, I'm Georgios Balaouras - aka [mpalaourg][website] <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/> <img align="center" src="https://komarev.com/ghpvc/?username=mpalaourg&label=Visitors&color=blue&style=plastic" alt="mpalaourg" height="20"/>
 
 * 🔭 Currently working on a DL Architecture, for Automatic Video Summarization using Attention Mechanisms.
 * 🌱 Currently mastering Python and PyTorch.
 * 🥅 2021 Goal: Contribute more to Open Source projects.
-* 🏠 Thessaloniki, Central Macedonia, Greece.
 * ⚡ Fun fact #1: My favorite debug method is a `print("got this far")` statement.
 * ⚡ Fun fact #2: I’m a procaffeinator.
+* 🏠 Thessaloniki, Central Macedonia, Greece.
+* 🏢 @ITI-CERTH, Thessaloniki, Greece.
 
 ### Connect with me:
-<a href="https://mpalaourg.me/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/website-255-610491.png" alt="website" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/georgebalaouras" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mpalaourg" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="mailto:mpalaourge@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://mpalaourg.me/" target="blank"><img src="https://img.shields.io/badge/My%20Website-%23117AC9.svg?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
+<a href="https://linkedin.com/in/georgebalaouras"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/mpalaourg" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/mpalaourg" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="mailto:mpalaourge@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### Programming languages, Frameworks and Tools:
 * ### Currently Mastering
