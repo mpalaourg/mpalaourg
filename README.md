@@ -9,7 +9,7 @@
 * 🏢 @ITI-CERTH, Thessaloniki, Greece.
 
 ### Connect with me:
-<a href="https://mpalaourg.me/" target="blank"><img src="https://img.shields.io/badge/My%20Website-%23117AC9.svg?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
+<a href="https://mpalaourg.me/" target="blank"><img src="https://img.shields.io/badge/My%20Website-%23117AC9.svg?style=for-the-badge&logo=iCloud&logoColor=white" /></a>
 <a href="https://linkedin.com/in/georgebalaouras"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/mpalaourg" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/mpalaourg" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -43,5 +43,11 @@
 
 <p align="center">
 <img align="center" alt="mpalaourg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpalaourg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />  <img align="center" alt="mpalaourg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpalaourg&layout=compact&langs_count=8&theme=radical&hide_border=true" /> </p>
+
+## TODO Fix the appearance
+[![trophy](https://github-profile-trophy.vercel.app/?username=mpalaourg)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub metrics](https://metrics.lecoq.io/mpalaourg)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mpalaourg)  
+
 
 [website]: https://mpalaourg.me/
