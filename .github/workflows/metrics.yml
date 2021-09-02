@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 */4 * * *"}]
+  schedule: [{cron: "0 */10 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -15,19 +15,22 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: "Europe/Bucharest"
+          filename: images/github-metrics.*
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: "Europe/Bucharest"
+          base: ""
           plugin_stars: yes
           plugin_stars_limit: 6
-          filename: github-stars.*
+          filename: images/github-stars.*
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: "Europe/Bucharest"
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          filename: github-achievements.*
+          filename: images/github-achievements.*
