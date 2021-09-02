@@ -47,7 +47,9 @@
 <details>
 <summary><b>📊 Even more Stats and GitHub metrics</b> <i>(click to expand)</i></summary>
 <p align="center">
-<img align="center" alt="mpalaourg's metrics" src="https://github.com/mpalaourg/mpalaourg/blob/main/github-metrics.svg" /> </p>
+<img align="center" alt="mpalaourg's metrics" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-metrics.svg" />
+<img align="center" alt="mpalaourg's stars" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-stars.svg" />
+<img align="center" alt="mpalaourg's achievements" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-achievements.svg" /> </p>
 </details>
 
 [website]: https://mpalaourg.me/

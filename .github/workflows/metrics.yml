@@ -23,7 +23,7 @@ jobs:
           config_timezone: "Europe/Bucharest"
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 6
+          plugin_stars_limit: 5
           filename: images/github-stars.*
       - uses: lowlighter/metrics@latest
         with:
