@@ -15,10 +15,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: "Europe/Bucharest"
-  github-stars:
-    runs-on: ubuntu-latest
-    steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -27,10 +23,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 6
           filename: github-stars.*
-  github-achievements:
-    runs-on: ubuntu-latest
-    steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
