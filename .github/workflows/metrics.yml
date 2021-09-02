@@ -15,22 +15,8 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: "Europe/Bucharest"
-          filename: images/github-metrics.*
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: "Europe/Bucharest"
-          base: ""
           plugin_stars: yes
           plugin_stars_limit: 5
-          filename: images/github-stars.*
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: "Europe/Bucharest"
-          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          filename: images/github-achievements.*
+          filename: images/github-metrics.*

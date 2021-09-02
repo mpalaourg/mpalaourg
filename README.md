@@ -39,7 +39,7 @@
 &ensp;&ensp;&ensp; <a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a>
 <a href="https://www.tutorialspoint.com/arduino/index.htm" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/tutorial/" target="_blank"> <img src="https://www.logolynx.com/images/logolynx/00/00429ca224699ddf60ce05b46ef08709.jpeg" alt="flask" width="40" height="40"/> </a>
-<a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  
+<a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
 <p align="center">
 <img align="center" alt="mpalaourg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpalaourg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />  <img align="center" alt="mpalaourg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpalaourg&layout=compact&langs_count=8&theme=radical&hide_border=true" /> <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mpalaourg&theme=radical&hide_border=true" /> </p>
@@ -47,9 +47,7 @@
 <details>
 <summary><b>📊 Even more Stats and GitHub metrics</b> <i>(click to expand)</i></summary>
 <p align="center">
-<img align="center" alt="mpalaourg's metrics" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-metrics.svg" />
-<img align="center" alt="mpalaourg's stars" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-stars.svg" />
-<img align="center" alt="mpalaourg's achievements" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-achievements.svg" /> </p>
+<img align="center" alt="mpalaourg's metrics" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-metrics.svg" /> </p>
 </details>
 
 [website]: https://mpalaourg.me/
