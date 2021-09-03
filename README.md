@@ -44,10 +44,13 @@
 <p align="center">
 <img align="center" alt="mpalaourg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpalaourg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />  <img align="center" alt="mpalaourg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpalaourg&layout=compact&langs_count=8&theme=radical&hide_border=true" /> <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mpalaourg&theme=radical&hide_border=true" /> </p>
 
-<details>
-<summary><b>📊 Even more Stats and GitHub metrics</b> <i>(click to expand)</i></summary>
+<details> <summary><b>📊 Even more Stats and GitHub metrics</b> <i>(click to expand)</i></summary>
 <p align="center">
 <img align="center" alt="mpalaourg's metrics" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-metrics.svg" /> </p>
+  <details><summary><b>😃 Still here?</b> <i>(click for a joke)</i></summary>
+  <p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Refresh again to view Jokes Card" /> </p>
+  </details>
 </details>
 
 [website]: https://mpalaourg.me/
