@@ -2,11 +2,11 @@
 
 * 🔭 Currently working on a DL Architecture, for Automatic Video Summarization using Attention Mechanisms.
 * 🌱 Currently mastering Python and PyTorch.
-* 🥅 2021 Goal: Contribute more to Open Source projects.
+* 🥅 2022 Goal: Contribute more to Open Source projects.
 * ⚡ Fun fact #1: My favorite debug method is a `print("got this far")` statement<a href="https://i.redd.it/z60ycp65gin11.jpg">. </a>
 * ⚡ Fun fact #2: I’m a procaffeinator.
 * 🏠 **Thessaloniki, Central Macedonia, Greece.**
-* 🏢 **[@ITI-CERTH/MKLab][mklab-iti], Thessaloniki, Greece.**
+* 🏢 **[@ITI-CERTH/IDTLab][idtlab-iti], Thessaloniki, Greece.**
 
 ### Connect with me:
 <a href="https://mpalaourg.me/" target="blank"><img src="https://img.shields.io/badge/My%20Website-%23117AC9.svg?style=for-the-badge&logo=iCloud&logoColor=white" /></a>
@@ -54,4 +54,4 @@
 </details>
 
 [website]: https://mpalaourg.me/
-[mklab-iti]: https://mklab.iti.gr/
+[idtlab-iti]: http://idt.iti.gr/
