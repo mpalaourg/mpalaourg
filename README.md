@@ -1,12 +1,12 @@
 ### Hi there, I'm Georgios Balaouras - aka [mpalaourg][website] <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/> <img align="center" src="https://komarev.com/ghpvc/?username=mpalaourg&label=Visitors&color=blue&style=plastic" alt="mpalaourg" height="20"/>
 
-* 🔭 Currently working on a DL Architecture, for Automatic Video Summarization using Attention Mechanisms.
-* 🌱 Currently mastering Python and PyTorch.
+* 💂 Currently fulfilling my **mandatory** military service.
+* 🔭 Previously working on a DL Architectures, for Automatic Video Summarization using Attention Mechanisms.
 * 🥅 2022 Goal: Contribute more to Open Source projects.
 * ⚡ Fun fact #1: My favorite debug method is a `print("got this far")` statement<a href="https://i.redd.it/z60ycp65gin11.jpg">. </a>
 * ⚡ Fun fact #2: I’m a procaffeinator.
 * 🏠 **Thessaloniki, Central Macedonia, Greece.**
-* 🏢 **[@ITI-CERTH/IDTLab][idtlab-iti], Thessaloniki, Greece.**
+* 🏢 **A free -*unemployed*- spirit.**
 
 ### Connect with me:
 <a href="https://mpalaourg.me/" target="blank"><img src="https://img.shields.io/badge/My%20Website-%23117AC9.svg?style=for-the-badge&logo=iCloud&logoColor=white" /></a>
