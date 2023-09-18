@@ -1,18 +1,17 @@
 ### Hi there, I'm Georgios Balaouras - aka [mpalaourg][website] <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/> <img align="center" src="https://komarev.com/ghpvc/?username=mpalaourg&label=Visitors&color=blue&style=plastic" alt="mpalaourg" height="20"/>
 
-* 💂 ~Currently fulfilling my mandatory military service~ **Done** ✔.
 * 🔭 Previously working on a DL Architectures, for Automatic Video Summarization using Attention Mechanisms.
 * 🥅 2023 Goal: Get back in Tech-industry.
 * ⚡ Fun fact #1: My favorite debug method is a `print("got this far")` statement<a href="https://i.redd.it/z60ycp65gin11.jpg">. </a>
 * ⚡ Fun fact #2: I’m a procaffeinator.
 * 🏠 **Thessaloniki, Central Macedonia, Greece.**
-* 🏢 **A free -*unemployed*- spirit.**
+* 🏢 **[@EY/Data & Analytics][d&a-ey], Thessaloniki, Greece.**
 
 ### Connect with me:
 <a href="https://mpalaourg.me/" target="blank"><img src="https://img.shields.io/badge/My%20Website-%23117AC9.svg?style=for-the-badge&logo=iCloud&logoColor=white" /></a>
 <a href="https://linkedin.com/in/georgebalaouras"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/mpalaourg" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/mpalaourg" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://leetcode.com/mpalaourg/" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/></a>
 <a href="mailto:mpalaourge@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### Programming languages, Frameworks and Tools:
@@ -54,4 +53,4 @@
 </details>
 
 [website]: https://mpalaourg.me/
-[idtlab-iti]: http://idt.iti.gr/
+[d&a-ey]: https://www.ey.com/en_gl/ai/platform
