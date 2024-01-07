@@ -1,7 +1,7 @@
 ### Hi there, I'm Georgios Balaouras - aka [mpalaourg][website] <img align="center" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40"/> <img align="center" src="https://komarev.com/ghpvc/?username=mpalaourg&label=Visitors&color=blue&style=plastic" alt="mpalaourg" height="20"/>
 
 * 🔭 Previously working on a DL Architectures, for Automatic Video Summarization using Attention Mechanisms.
-* 🥅 2023 Goal: Get back in Tech-industry.
+* 🥅 2024 Goal: Explore LLMs and their capabilities. Build more, solve more business problems, bring more value.
 * ⚡ Fun fact #1: My favorite debug method is a `print("got this far")` statement<a href="https://i.redd.it/z60ycp65gin11.jpg">. </a>
 * ⚡ Fun fact #2: I’m a procaffeinator.
 * 🏠 **Thessaloniki, Central Macedonia, Greece.**
@@ -40,16 +40,9 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/tutorial/" target="_blank"> <img src="https://www.logolynx.com/images/logolynx/00/00429ca224699ddf60ce05b46ef08709.jpeg" alt="flask" width="40" height="40"/> </a>
 <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
+<details><summary><b>😃 Still here?</b> <i>(click for a joke)</i></summary>
 <p align="center">
-<img align="center" alt="mpalaourg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpalaourg&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />  <img align="center" alt="mpalaourg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpalaourg&layout=compact&langs_count=8&theme=radical&hide_border=true" /> <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mpalaourg&theme=radical&hide_border=true" /> </p>
-
-<details> <summary><b>📊 Even more Stats and GitHub metrics</b> <i>(click to expand)</i></summary>
-<p align="center">
-<img align="center" alt="mpalaourg's metrics" src="https://github.com/mpalaourg/mpalaourg/blob/main/images/github-metrics.svg" /> </p>
-  <details><summary><b>😃 Still here?</b> <i>(click for a joke)</i></summary>
-  <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Refresh again to view Jokes Card" /> </p>
-  </details>
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Refresh again to view Jokes Card" /> </p>
 </details>
 
 [website]: https://mpalaourg.me/
